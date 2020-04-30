@@ -1,7 +1,11 @@
 Learning JS by developing simple retro games part 1
 
 # Memory Game 
-topics covered:
+
+
+
+
+JS topics covered:
 
 - push()
 - querySelector()
